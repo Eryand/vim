@@ -1,5 +1,6 @@
+execute pathogen#infect()
+
 set nocompatible
 set number
-execute pathogen#infect()
 syntax on
 filetype plugin indent on
